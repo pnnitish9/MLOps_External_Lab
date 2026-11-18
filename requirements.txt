@@ -1,0 +1,10 @@
+mlflow>=3.0
+feast
+fastapi
+uvicorn
+httpx
+pytest
+scikit-learn
+pandas
+pyarrow
+joblib
